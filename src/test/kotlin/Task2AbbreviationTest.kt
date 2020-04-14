@@ -30,4 +30,8 @@ class Task2AbbreviationTest {
     fun testAbbreviation5() {
         assertEquals("NO", converter.abbreviationFromA("abhfs", "ASCI"))
     }
+   // @Test
+    //fun testAbbreviation6() {
+     //   assertEquals("YES", converter.abbreviationFromA("abcd", "ABCD"))
+    //}
 }
